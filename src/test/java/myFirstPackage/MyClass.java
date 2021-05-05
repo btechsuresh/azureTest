@@ -7,6 +7,7 @@ public class MyClass {
 	@Test
 	public void myTest1(){
 		System.out.println("This is myTest1 case");
+		System.out.println("Auto-Another pipeline check....");
 	}
 
 }
