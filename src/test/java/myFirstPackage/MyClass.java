@@ -8,6 +8,7 @@ public class MyClass {
 	public void myTest1(){
 		System.out.println("This is myTest1 case");
 		System.out.println("Auto-Another pipeline check...");
+		System.out.println("This is for autocheck");
 	}
 
 }
