@@ -10,7 +10,7 @@ public class MyClass {
 		System.out.println("Auto-Another pipeline check...");
 		System.out.println("This is for autocheck");
 		System.out.println("Hello");
-		System.out.println("Hello CI/CD....");
+		System.out.println("CI/CD....");
 		
 		
 	}
