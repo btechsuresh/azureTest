@@ -11,7 +11,8 @@ public class MyClass {
 		System.out.println("This is for autocheck");
 		System.out.println("Hello");
 		System.out.println("Hello CI/CD....");
-		System.out.println("Just Retrying..");
+		
+		
 	}
 
 }
